@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: Mr Robot 
+  theme_night: Mr Robot 
+  font: Native 
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Project Manager | Data scientist'
+    twitter: 'AllainFerhat'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,9 +34,9 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
@@ -62,11 +62,11 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    theme_dark: github-light
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
