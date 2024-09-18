@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional | A-T Ferhat-Berland Resume</title>
+    <link>http://localhost:1313/tags/professional/</link>
+      <atom:link href="http://localhost:1313/tags/professional/index.xml" rel="self" type="application/rss+xml" />
+    <description>Professional</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Professional</title>
+      <link>http://localhost:1313/tags/professional/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian reinforcement learning model</title>
+      <link>http://localhost:1313/project/bayesian-reinforcement-learning-model/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bayesian-reinforcement-learning-model/</guid>
+      <description>&lt;p&gt;Model-free and model-based reinforcement learning model to mimic learning in human of a serail learning task. The aim of this project is to propose a model miixing model free(Q-learing) and model-based (R-Elo) to explain the different aspect of learning in human.
+GitHub under construction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The connected Fork</title>
+      <link>http://localhost:1313/project/connected_fork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/connected_fork/</guid>
+      <description>&lt;p&gt;This project started during discussion with friend in academia on eating disorders as anorexia. We realized no tools exist to monitor the eating habits of people and help them to change those, and especially people with eating disorders.
+So we think about a silverware monitor the speed of eating, the quantity of food at each fork.
+At the moment, I work on the first concept of a fork that can collect information using arduino, accelerometer and weight balance.
+Those information will be then, analyses using python code and machine learning to determine, the number and weight of each mouthful, the time between mouthful, the quantity of food and the time of a meal.
+After the validation of the concept, the prototype and the data analyses, a user interface and a more user friendly prototype  with be design.&lt;/p&gt;
+&lt;p&gt;Follow this page to see the evolution of the project&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

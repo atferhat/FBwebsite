@@ -1,10 +1,10 @@
 ---
 title: The connected Fork
 summary: |2-
-  The main objective to this project is to create a fork connected to bluetooth to control different parameter during meal to better understand food disorder. The project use mainly arduinos component
+  The main objective to this project is to create a fork connected to bluetooth to control different parameter during meal to better understand food disorder. The project use mainly ESP32 component. 
 tags:
   - Professional
-date: '2016-04-27T00:00:00Z'
+date: '2024'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -31,7 +31,7 @@ url_video: ''
 # slides: example
 ---
 
-This project started during discussion with friend working in academia on eating disorders as anorexia. We realized no tools exist to monitor the eating habits of people and help them to change those, and especially people with eating disorders. 
+This project started during discussion with friend in academia on eating disorders as anorexia. We realized no tools exist to monitor the eating habits of people and help them to change those, and especially people with eating disorders. 
 So we think about a silverware monitor the speed of eating, the quantity of food at each fork.
 At the moment, I work on the first concept of a fork that can collect information using arduino, accelerometer and weight balance. 
 Those information will be then, analyses using python code and machine learning to determine, the number and weight of each mouthful, the time between mouthful, the quantity of food and the time of a meal. 

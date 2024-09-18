@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behavior | A-T Ferhat-Berland Resume</title>
+    <link>http://localhost:1313/tags/behavior/</link>
+      <atom:link href="http://localhost:1313/tags/behavior/index.xml" rel="self" type="application/rss+xml" />
+    <description>Behavior</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Behavior</title>
+      <link>http://localhost:1313/tags/behavior/</link>
+    </image>
+    
+    <item>
+      <title>Behavioural Phenotypes and Neural Circuit Dysfunctions in Mouse Models of Autism Spectrum Disorder</title>
+      <link>http://localhost:1313/publication/ferhat-behavioural-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ferhat-behavioural-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

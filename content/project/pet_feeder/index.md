@@ -3,7 +3,7 @@ title: Pet feeder
 summary: A pet feeder project to give food at specific time and to know who ate and the quantity of food.
 tags:
   - Personal
-date: '2016-04-27T00:00:00Z'
+date: '2024'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,5 +29,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-When you have several cat, it is often a nightmare to control the quantity of food. This project, based on this one (https://www.instructables.com/Automatic-Arduino-Powered-Pet-Feeder/), aim to create a pet feeder that deliver food to the cat according to a RFID chip carry by the cat.
-This project use Raspberry pi and Arduino, servo motor, weight balance and RFID reader. The last bonus will be using the raspi to add a camera.  
+When you have several cat, it is often a nightmare to control the quantity of food. This project, based on this one (https://www.instructables.com/Automatic-Arduino-Powered-Pet-Feeder/), aim to create a pet feeder that deliver food to the cat automatically and a full control trought Home Assistant server.
+This project use Raspberry pi and Arduino, servo motor, weight balance and RFID reader. 
+GitHub under constrution 

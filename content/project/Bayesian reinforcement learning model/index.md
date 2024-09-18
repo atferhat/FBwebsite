@@ -32,3 +32,4 @@ slides: example
 
 
 Model-free and model-based reinforcement learning model to mimic learning in human of a serail learning task. The aim of this project is to propose a model miixing model free(Q-learing) and model-based (R-Elo) to explain the different aspect of learning in human.
+GitHub under construction
